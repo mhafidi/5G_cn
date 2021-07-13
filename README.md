@@ -23,4 +23,5 @@ run on a network slice. The mobile operator does a requirements analysis based o
 
 ### References
 https://www.embeddedcomputing.com/application/networking-5g/5g-primer-part-3-5g-core-network
-3GPP TS 29.531 
+ 3GPP TS 29.531: NSSF services specification
+ 3GPP TS 29.571: Common Data Types for Service Based Interfaces
